@@ -146,6 +146,9 @@ p {
 #header .nav-list ul li:hover a {
 	color: crimson;
 }
+ .nav-bar {
+	border-bottom:  3px solid crimson;
+ }
 #header .hamburger {
 	height: 60px;
 	width: 60px;
